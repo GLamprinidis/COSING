@@ -1,5 +1,5 @@
-#usage: python ex
-#example: python run.py 39895     "2-ETHYL-2-(3-METHYLBUT-2-ENYL)HEX-3-ENOL "
+#usage: python chemspider_name_extract.py 'cosing' 'name'
+#example: python chemspider_name_extract.py 39895     "2-ETHYL-2-(3-METHYLBUT-2-ENYL)HEX-3-ENOL "
 
 from pubchempy import *
 
