@@ -1,5 +1,5 @@
-#To run the script you need to crate a file 'FILENAME' containing each CAS number on each line and run the script
-#awk -f cactus_cas2smile.awk FILENAME
+#To run the script you need to create a file named 'FILENAME' containing each CAS number on each line and run the script
+#example: awk -f cactus_cas2smile.awk FILENAME
 #where FILENAME is the file containing all cas numbers
 
 BEGIN {
