@@ -1,0 +1,2 @@
+[Compound('31367')]
+58-61-7	31367	C/C/1=N/CC(COc2c1cc(cc2Cl)Cl)O	InChI=1/C11H11Cl2NO2/c1-6-9-2-7(12)3-10(13)11(9)16-5-8(15)4-14-6/h2-3,8,15H,4-5H2,1H3/b14-6-	XBRAPXXJRUXVOX-NSIKDUERBW	(5Z)-8,10-Dichloro-6-methyl-3,4-dihydro-2H-1,5-benzoxazocin-3-ol
