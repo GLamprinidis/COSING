@@ -1,4 +1,4 @@
-#usage python chemspider_name_extract.py 'cosing' 'name'
+#usage: python chemspider_name_extract.py 'cosing' 'name'
 #example: python chemspider_name_extract.py 55191  "CALCIUM SULFATE HYDRATE "
 import chemspipy
 
