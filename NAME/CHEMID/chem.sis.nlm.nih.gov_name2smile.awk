@@ -1,4 +1,4 @@
-#To run the script you need to crate a file 'FILENAME' containing each name (commoname or iupac) on each line and run the script
+#To run the script you need to crate a file 'FILENAME' containing each name (inci-name or iupac-name) on each line and run the script
 #awk -f chem.sis.nlm.nih.gov_name2smile.awk FILENAME
 #where FILENAME is the file containing all cas numbers
 BEGIN {
